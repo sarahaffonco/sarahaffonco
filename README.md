@@ -16,8 +16,8 @@
 [![](https://visitcount.itsvg.in/api?id=Sarah Affonco&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # 💻  Projects:
-![https://sarahaffonco.github.io/alurageek/]
-![paulagmborges.pythonanywhere.com] 
-![https://portfolio-alura-mrwljxfvn-sarahaffoncos-projects.vercel.app/index.html]
-![jogo-alpha-gray.vercel.app]
+![https://sarahaffonco.github.io/alurageek/] <br/>
+![paulagmborges.pythonanywhere.com] <br/>
+![https://portfolio-alura-mrwljxfvn-sarahaffoncos-projects.vercel.app/index.html]<br/>
+![jogo-alpha-gray.vercel.app]<br/>
 
