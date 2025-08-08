@@ -71,8 +71,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/sarahaffonco/Portfolio_Alura/" title="Portfolio">
-        <img width="200" src="https://portfolio-alura-mrwljxfvn-sarahaffoncos-projects.vercel.app/index.html" />
+      <a href="https://portfolio-alura-mrwljxfvn-sarahaffoncos-projects.vercel.app/index.html" title="Portfolio">
+        <img width="200" src="https://img.shields.io/badge/Jogo%20do%20Numero%20secreto-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
     </td>
     <td>
