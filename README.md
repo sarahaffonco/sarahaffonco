@@ -71,8 +71,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://sarahaffonco.github.io/alurageek/" title="AluraGeek">
-        <img width="200" src="https://img.shields.io/badge/AluraGeek-orange?style=for-the-badge&logo=github&logoColor=white" />
+      <a href="https://github.com/sarahaffonco/Portfolio_Alura/" title="Portfolio">
+        <img width="200" src="https://portfolio-alura-mrwljxfvn-sarahaffoncos-projects.vercel.app/index.html" />
       </a>
     </td>
     <td>
