@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 15px;">
-      <img src="https://github.com/user-attachments/assets/d6716f5b-3f18-42fb-a76d-d48a87b980f9" alt="me" width="150"/>
+      <img src="https://github.com/user-attachments/assets/b7eefb0c-7944-4b19-9e8f-ad6da3987fbc" alt="me" width="150"/>
     </td>
     <td>
       Naturally curious,  <br>
